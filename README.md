@@ -1,16 +1,16 @@
 <!-- 顶部自定义 Banner 图片/徽章 -->
 <p align="left">
-  <img src="./me1.png" alt="me" width="1000" />
+  <img src="./me1.png" alt="me" width="1200" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hey!+I+am+Jayden+Xin;a+Full-stack+developer;Welcome+to+my+world!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hey+Everyone!!!;I+am+Jayden+Xin;a+Full-stack+developer;Welcome+to+my+world!" alt="Typing SVG" />
 </p>
 
 ### 💼 关于我
 
 - 💼 目前正在专注于 **服务器大数据 / Shell / Python**
 - 🚀 我的个人博客：[点击访问](https://my-blog-xp.vercel.app)
-- 📬 联系我：`my@example.com`
+- 📬 联系我：`2226273411@qq.com`
 
 ---
 
