@@ -1,5 +1,5 @@
 <!-- 顶部自定义 Banner 图片/徽章 -->
-<p align="center">
+<p align="left">
   <img src="./me1.png" alt="me" width="600" />
 </p>
 <p align="center">
