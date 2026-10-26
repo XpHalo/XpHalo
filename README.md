@@ -29,8 +29,7 @@
 ### 📊 GitHub 统计数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XpHalo&show_icons=true&theme=radial" alt="XpHalo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XpHalo&layout=compact&theme=radial" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XpHalo&theme=radial" alt="GitHub Profile Details" />
 </p>
 
 <!-- 访问量计数器 -->
