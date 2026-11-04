@@ -9,7 +9,7 @@
 ### 💼 关于我
 
 - 💼 目前正在专注于 **服务器大数据 / Shell / Python**
-- 🚀 我的个人博客：👉 [点击直接访问 Jayden.dev](https://jayden-xin.vercel.app/)
+- 🚀 我的个人博客：👉 [点击直接访问 Jayden.dev](https://jaydenxin.vercel.app/)
 - 📬 联系我：`2226273411@qq.com`
 
 ---
